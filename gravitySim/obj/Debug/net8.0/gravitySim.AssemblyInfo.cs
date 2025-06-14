@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("gravitySim")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9d498201f15c109e5e69ae32afd69323be1607a3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eccadaddbccdd7240e0c1277dbb0917f6e7db001")]
 [assembly: System.Reflection.AssemblyProductAttribute("gravitySim")]
 [assembly: System.Reflection.AssemblyTitleAttribute("gravitySim")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

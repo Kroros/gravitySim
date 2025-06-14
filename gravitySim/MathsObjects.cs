@@ -78,9 +78,9 @@ namespace MathsObjects
             return vec1.X * vec2.X + vec1.Y * vec2.Y + vec1.Z * vec2.Z;
         }
 
-        public double Norm(VectorCartesian vec)
+        public double Norm()
         {
-            return Math.Pow(vec * vec, 0.5);
+            return Math.Sqrt(this * this);
         }
     }
 
@@ -118,10 +118,12 @@ namespace MathsObjects
     
     public class CelestialObject
     {
-        public double Mass { get; set; }
-        public double Radius { get; set; }
-        public VectorCartesian Velocity { get; set; }
-        public VectorCartesian Position { get; set; }
+        public double Mass { get; set; }    // kg
+        public double Radius { get; set; }  // m
+        public VectorCartesian Velocity { get; set; }   // m/s
+        public VectorCartesian Position { get; set; }   // m
+        public VectorCartesian Acceleration { get; set; } = new VectorCartesian(0, 0, 0);  // m/s/s
+
 
         public CelestialObject(double mass, double radius, VectorCartesian velocity, VectorCartesian position)
         {

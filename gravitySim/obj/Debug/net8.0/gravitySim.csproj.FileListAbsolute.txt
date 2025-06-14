@@ -12,3 +12,4 @@ D:\User\Documents\Programming\gravSim\gravitySim\gravitySim\obj\Debug\net8.0\ref
 D:\User\Documents\Programming\gravSim\gravitySim\gravitySim\obj\Debug\net8.0\gravitySim.pdb
 D:\User\Documents\Programming\gravSim\gravitySim\gravitySim\obj\Debug\net8.0\gravitySim.genruntimeconfig.cache
 D:\User\Documents\Programming\gravSim\gravitySim\gravitySim\obj\Debug\net8.0\ref\gravitySim.dll
+D:\User\Documents\Programming\gravSim\gravitySim\gravitySim\obj\Debug\net8.0\gravitySim.sourcelink.json
