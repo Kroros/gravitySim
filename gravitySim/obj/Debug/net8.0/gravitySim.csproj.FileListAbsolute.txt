@@ -1,0 +1,14 @@
+D:\User\Documents\Programming\gravSim\gravitySim\gravitySim\obj\Debug\net8.0\gravitySim.GeneratedMSBuildEditorConfig.editorconfig
+D:\User\Documents\Programming\gravSim\gravitySim\gravitySim\obj\Debug\net8.0\gravitySim.AssemblyInfoInputs.cache
+D:\User\Documents\Programming\gravSim\gravitySim\gravitySim\obj\Debug\net8.0\gravitySim.AssemblyInfo.cs
+D:\User\Documents\Programming\gravSim\gravitySim\gravitySim\obj\Debug\net8.0\gravitySim.csproj.CoreCompileInputs.cache
+D:\User\Documents\Programming\gravSim\gravitySim\gravitySim\bin\Debug\net8.0\gravitySim.exe
+D:\User\Documents\Programming\gravSim\gravitySim\gravitySim\bin\Debug\net8.0\gravitySim.deps.json
+D:\User\Documents\Programming\gravSim\gravitySim\gravitySim\bin\Debug\net8.0\gravitySim.runtimeconfig.json
+D:\User\Documents\Programming\gravSim\gravitySim\gravitySim\bin\Debug\net8.0\gravitySim.dll
+D:\User\Documents\Programming\gravSim\gravitySim\gravitySim\bin\Debug\net8.0\gravitySim.pdb
+D:\User\Documents\Programming\gravSim\gravitySim\gravitySim\obj\Debug\net8.0\gravitySim.dll
+D:\User\Documents\Programming\gravSim\gravitySim\gravitySim\obj\Debug\net8.0\refint\gravitySim.dll
+D:\User\Documents\Programming\gravSim\gravitySim\gravitySim\obj\Debug\net8.0\gravitySim.pdb
+D:\User\Documents\Programming\gravSim\gravitySim\gravitySim\obj\Debug\net8.0\gravitySim.genruntimeconfig.cache
+D:\User\Documents\Programming\gravSim\gravitySim\gravitySim\obj\Debug\net8.0\ref\gravitySim.dll
